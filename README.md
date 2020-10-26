@@ -6,6 +6,7 @@ This project is about movie searching site. User can view and search a huge data
 
 Components in the project:
 * Search
+* API
 * Movies
 * Overview
 * Rating
